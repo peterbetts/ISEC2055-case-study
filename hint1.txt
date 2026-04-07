@@ -1,0 +1,1 @@
+This challenge deals with Broken Access Control in addition to Insecure Design. Look for ways to get to places you shouldn't have access to.
